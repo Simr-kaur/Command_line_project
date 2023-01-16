@@ -1,0 +1,50 @@
+1. Which command is used to remove files?
+a. rm
+b. dm
+c. kill
+d. stop
+2. Which of the following command is used to count the total number of lines, words, and characters contained in a file?
+a. wcount
+b. countw
+c. wc
+d. none of these
+3. Which of these commands do we use for the sorting of data lines in a file in alphabetical order?
+a. st
+b. sort
+c. sort -r
+d. sh
+4. Which of these commands do we use for just counting the total number of lines that a file contains?
+a. wc -l
+b. wc -r
+c. wc -x
+d. wc -k
+5. The core of linux operating system is _____?
+a. shell
+b. kernel
+c. terminal
+d. command
+6. ____ is not a communicable command?
+a. mail
+b. write
+c. grep
+d. messg
+7. Which of the following combination is used to exit from terminal?
+a. ctrl+z
+b. ctrl+v
+c. ctrl+d
+d. ctrl+t
+8. The mv command used for _______.
+a. Renaming a file
+b. Move the file to different directory
+c. Both 1 and 2
+d. None of these
+9. Hidden files can be viewed by ____.
+a. ls -a
+b. ls -l
+c. ls -k
+d. ls -h
+10. The top level directory on linux system is represented as _____?
+a. $
+b. ~
+c. #
+d. /
